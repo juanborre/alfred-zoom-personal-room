@@ -2,6 +2,8 @@
 
 With a click, it pastes the link of your Zoom personal room, opens the room and activates your video.
 
+![Zoom personal room](https://github.com/juanborre/alfred-zoom-personal-room/blob/main/demo.gif)
+
 ## Configuration
 
 You need to edit the workflow in order to define your hotkey.
