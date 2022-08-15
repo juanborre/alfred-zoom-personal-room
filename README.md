@@ -8,7 +8,12 @@ With a click, it pastes the link of your Zoom personal room, opens the room and 
 
 You need to edit the workflow in order to define your hotkey. You can do that in Alfred, going to this workflow and clicking on the very first box.
 
-You need to configure the `{personal_id}` and the `{password}`. You can get this information inside Zoom.
+You need to configure the `{personal_id}` and the `{password}`. You can get this information from inside Zoom.
+
+The invitation URL to your personal room is usually like:
+https://us02web.zoom.us/j/{personal_id}?pwd={password}
+
+You can pick both fields from there.
 
 If nothing happens when you activate the workflow, you may need to check the name of your Zoom app and define it in the variable `{zoom_app_name}`. You can do that in Finder under the Applications folder. By default, it is Zoom.us.
 
