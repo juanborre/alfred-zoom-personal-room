@@ -6,7 +6,7 @@ With a click, it pastes the link of your Zoom personal room, opens the room and 
 
 ## Configuration
 
-You need to edit the workflow in order to define your hotkey.
+You need to edit the workflow in order to define your hotkey. You can do that in Alfred, going to this workflow and clicking on the very first box.
 
 You need to configure the `{personal_id}` and the `{password}`. You can get this information inside Zoom.
 
