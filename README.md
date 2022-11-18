@@ -17,6 +17,8 @@ You can pick both fields from there.
 
 If nothing happens when you activate the workflow, you may need to check the name of your Zoom app and define it in the variable `{zoom_app_name}`. You can do that in Finder under the Applications folder. By default, it is Zoom.us.
 
+You can install the latest version from the [releases page](https://github.com/juanborre/alfred-zoom-personal-room/releases)
+
 ## Some notes
 
 - You need Alfred 5
